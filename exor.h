@@ -32,8 +32,7 @@ SC_MODULE(exor)
         b.Z(h3);
         d.B(h3);
 
-        Z(d.Z);
-
+        d.Z(Z);
     }
 };
 
